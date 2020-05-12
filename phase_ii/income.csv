@@ -1,0 +1,199 @@
+﻿County,Time,Income
+Sonoma,1995,25996
+Sonoma,1996,27440
+Sonoma,1997,29164
+Sonoma,1998,31061
+Sonoma,1999,32426
+Sonoma,2000,34862
+Sonoma,2001,35322
+Sonoma,2002,35228
+Sonoma,2003,35346
+Sonoma,2004,36099
+Sonoma,2005,37345
+Sonoma,2006,38714
+Sonoma,2007,39344
+Sonoma,2008,38970
+Sonoma,2009,36481
+Sonoma,2010,36405
+Sonoma,2011,37225
+Sonoma,2012,38506
+Sonoma,2013,39821
+Sonoma,2014,41038
+Sonoma,2015,42963
+Sonoma,2016,44236
+Solano,1995,29296
+Solano,1996,29717
+Solano,1997,31060
+Solano,1998,32279
+Solano,1999,33528
+Solano,2000,35856
+Solano,2001,37507
+Solano,2002,38120
+Solano,2003,38436
+Solano,2004,39205
+Solano,2005,39530
+Solano,2006,40641
+Solano,2007,40910
+Solano,2008,41501
+Solano,2009,40214
+Solano,2010,39358
+Solano,2011,39662
+Solano,2012,40555
+Solano,2013,41275
+Solano,2014,41785
+Solano,2015,42983
+Solano,2016,44414
+Santa Clara,1995,30893
+Santa Clara,1996,33313
+Santa Clara,1997,35762
+Santa Clara,1998,38105
+Santa Clara,1999,40398
+Santa Clara,2000,45214
+Santa Clara,2001,45585
+Santa Clara,2002,43105
+Santa Clara,2003,42642
+Santa Clara,2004,44152
+Santa Clara,2005,45239
+Santa Clara,2006,47283
+Santa Clara,2007,48131
+Santa Clara,2008,48479
+Santa Clara,2009,45814
+Santa Clara,2010,46365
+Santa Clara,2011,47992
+Santa Clara,2012,49921
+Santa Clara,2013,51937
+Santa Clara,2014,54166
+Santa Clara,2015,57281
+Santa Clara,2016,60540
+San Mateo,1995,31147
+San Mateo,1996,33147
+San Mateo,1997,35555
+San Mateo,1998,37839
+San Mateo,1999,40132
+San Mateo,2000,44270
+San Mateo,2001,44697
+San Mateo,2002,43477
+San Mateo,2003,43369
+San Mateo,2004,44847
+San Mateo,2005,45992
+San Mateo,2006,48117
+San Mateo,2007,49230
+San Mateo,2008,49647
+San Mateo,2009,47754
+San Mateo,2010,48189
+San Mateo,2011,49741
+San Mateo,2012,52025
+San Mateo,2013,53972
+San Mateo,2014,56123
+San Mateo,2015,59192
+San Mateo,2016,60828
+San Francisco,1995,25241
+San Francisco,1996,26806
+San Francisco,1997,28909
+San Francisco,1998,31122
+San Francisco,1999,33623
+San Francisco,2000,37458
+San Francisco,2001,37315
+San Francisco,2002,35958
+San Francisco,2003,36354
+San Francisco,2004,37514
+San Francisco,2005,39187
+San Francisco,2006,41801
+San Francisco,2007,43757
+San Francisco,2008,44448
+San Francisco,2009,42484
+San Francisco,2010,42821
+San Francisco,2011,45013
+San Francisco,2012,47655
+San Francisco,2013,49777
+San Francisco,2014,53249
+San Francisco,2015,56722
+San Francisco,2016,60573
+Napa,1995,25614
+Napa,1996,27212
+Napa,1997,28898
+Napa,1998,30617
+Napa,1999,32385
+Napa,2000,34496
+Napa,2001,35069
+Napa,2002,35208
+Napa,2003,35472
+Napa,2004,36429
+Napa,2005,37528
+Napa,2006,39151
+Napa,2007,40296
+Napa,2008,40349
+Napa,2009,38084
+Napa,2010,37964
+Napa,2011,38883
+Napa,2012,40494
+Napa,2013,42110
+Napa,2014,43471
+Napa,2015,44878
+Napa,2016,46177
+Marin,1995,32401
+Marin,1996,34654
+Marin,1997,37154
+Marin,1998,39962
+Marin,1999,42879
+Marin,2000,46696
+Marin,2001,45869
+Marin,2002,44399
+Marin,2003,44797
+Marin,2004,46699
+Marin,2005,48854
+Marin,2006,51720
+Marin,2007,53673
+Marin,2008,51904
+Marin,2009,48172
+Marin,2010,49675
+Marin,2011,52032
+Marin,2012,54894
+Marin,2013,57244
+Marin,2014,59896
+Marin,2015,63110
+Marin,2016,64675
+Contra Costa,1995,33006
+Contra Costa,1996,34281
+Contra Costa,1997,35953
+Contra Costa,1998,37676
+Contra Costa,1999,39153
+Contra Costa,2000,42052
+Contra Costa,2001,43012
+Contra Costa,2002,42762
+Contra Costa,2003,42880
+Contra Costa,2004,43639
+Contra Costa,2005,44312
+Contra Costa,2006,45748
+Contra Costa,2007,46375
+Contra Costa,2008,46615
+Contra Costa,2009,44497
+Contra Costa,2010,44492
+Contra Costa,2011,45446
+Contra Costa,2012,47140
+Contra Costa,2013,48219
+Contra Costa,2014,49178
+Contra Costa,2015,50667
+Contra Costa,2016,51996
+Alameda,1995,28329
+Alameda,1996,29680
+Alameda,1997,31318
+Alameda,1998,32958
+Alameda,1999,34588
+Alameda,2000,37580
+Alameda,2001,38582
+Alameda,2002,38044
+Alameda,2003,38411
+Alameda,2004,39779
+Alameda,2005,40613
+Alameda,2006,42360
+Alameda,2007,43220
+Alameda,2008,43872
+Alameda,2009,41964
+Alameda,2010,41936
+Alameda,2011,42897
+Alameda,2012,44821
+Alameda,2013,46217
+Alameda,2014,47730
+Alameda,2015,50031
+Alameda,2016,52963
