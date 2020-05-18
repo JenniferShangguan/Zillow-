@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -10,7 +11,7 @@ from sklearn import metrics, svm
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.neural_network import MLPRegressor
 
-
+os. chdir("/Users/yinishangguan/Library/Mobile Documents/com~apple~CloudDocs/Work/Job Searching/CS/Insight/Zillow Project/phase_i/PredictiveModeling")
 # general parameter settings
 pd.set_option('display.width', 400)
 pd.set_option('display.max_columns', 15)

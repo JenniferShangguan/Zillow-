@@ -1,0 +1,163 @@
+RState,RCounty,WState,WCounty,Number,ME,start_year,end_year
+California,Alameda County,California,Napa County,552,171.0,2006,2010
+California,Alameda County,California,Sonoma County,829,225.0,2006,2010
+California,Alameda County,California,Solano County,1774,320.0,2006,2010
+California,Alameda County,California,Marin County,3711,406.0,2006,2010
+California,Alameda County,California,San Mateo County,34369,1272.0,2006,2010
+California,Alameda County,California,Contra Costa County,39883,1528.0,2006,2010
+California,Alameda County,California,Santa Clara County,64696,1865.0,2006,2010
+California,Alameda County,California,San Francisco County,71861,2017.0,2006,2010
+California,Alameda County,California,Alameda County,468181,4506.0,2006,2010
+California,Contra Costa County,California,Sonoma County,1040,202.0,2006,2010
+California,Contra Costa County,California,Napa County,1328,271.0,2006,2010
+California,Contra Costa County,California,Marin County,6850,763.0,2006,2010
+California,Contra Costa County,California,Solano County,7442,659.0,2006,2010
+California,Contra Costa County,California,San Mateo County,10040,695.0,2006,2010
+California,Contra Costa County,California,Santa Clara County,11526,778.0,2006,2010
+California,Contra Costa County,California,San Francisco County,47861,1741.0,2006,2010
+California,Contra Costa County,California,Alameda County,92797,2340.0,2006,2010
+California,Contra Costa County,California,Contra Costa County,280521,3420.0,2006,2010
+California,Marin County,California,Napa County,419,161.0,2006,2010
+California,Marin County,California,Solano County,640,169.0,2006,2010
+California,Marin County,California,Santa Clara County,914,238.0,2006,2010
+California,Marin County,California,San Mateo County,2016,344.0,2006,2010
+California,Marin County,California,Contra Costa County,2357,312.0,2006,2010
+California,Marin County,California,Sonoma County,4187,464.0,2006,2010
+California,Marin County,California,Alameda County,4479,523.0,2006,2010
+California,Marin County,California,San Francisco County,25931,1042.0,2006,2010
+California,Marin County,California,Marin County,78950,1681.0,2006,2010
+California,Napa County,California,Santa Clara County,278,118.0,2006,2010
+California,Napa County,California,San Mateo County,321,106.0,2006,2010
+California,Napa County,California,Marin County,932,228.0,2006,2010
+California,Napa County,California,Alameda County,1271,265.0,2006,2010
+California,Napa County,California,Contra Costa County,1576,226.0,2006,2010
+California,Napa County,California,San Francisco County,1864,350.0,2006,2010
+California,Napa County,California,Sonoma County,2177,386.0,2006,2010
+California,Napa County,California,Solano County,4441,460.0,2006,2010
+California,Napa County,California,Napa County,48424,1297.0,2006,2010
+California,San Francisco County,California,Napa County,380,153.0,2006,2010
+California,San Francisco County,California,Solano County,618,157.0,2006,2010
+California,San Francisco County,California,Sonoma County,889,230.0,2006,2010
+California,San Francisco County,California,Contra Costa County,4851,466.0,2006,2010
+California,San Francisco County,California,Marin County,7412,773.0,2006,2010
+California,San Francisco County,California,Santa Clara County,19087,1135.0,2006,2010
+California,San Francisco County,California,Alameda County,22009,1012.0,2006,2010
+California,San Francisco County,California,San Mateo County,43423,1628.0,2006,2010
+California,San Francisco County,California,San Francisco County,330965,3078.0,2006,2010
+California,San Mateo County,California,Napa County,50,37.0,2006,2010
+California,San Mateo County,California,Solano County,320,128.0,2006,2010
+California,San Mateo County,California,Sonoma County,411,139.0,2006,2010
+California,San Mateo County,California,Marin County,1142,258.0,2006,2010
+California,San Mateo County,California,Contra Costa County,1909,264.0,2006,2010
+California,San Mateo County,California,Alameda County,13417,739.0,2006,2010
+California,San Mateo County,California,Santa Clara County,50215,1559.0,2006,2010
+California,San Mateo County,California,San Francisco County,75047,1554.0,2006,2010
+California,San Mateo County,California,San Mateo County,204512,2185.0,2006,2010
+California,Santa Clara County,California,Napa County,85,51.0,2006,2010
+California,Santa Clara County,California,Sonoma County,349,131.0,2006,2010
+California,Santa Clara County,California,Solano County,376,162.0,2006,2010
+California,Santa Clara County,California,Marin County,741,200.0,2006,2010
+California,Santa Clara County,California,Contra Costa County,3360,396.0,2006,2010
+California,Santa Clara County,California,San Francisco County,9570,690.0,2006,2010
+California,Santa Clara County,California,Alameda County,38339,1513.0,2006,2010
+California,Santa Clara County,California,San Mateo County,41522,1505.0,2006,2010
+California,Santa Clara County,California,Santa Clara County,711535,4064.0,2006,2010
+California,Solano County,California,Santa Clara County,1493,378.0,2006,2010
+California,Solano County,California,Sonoma County,2409,404.0,2006,2010
+California,Solano County,California,San Mateo County,2619,336.0,2006,2010
+California,Solano County,California,Marin County,4362,517.0,2006,2010
+California,Solano County,California,San Francisco County,9854,666.0,2006,2010
+California,Solano County,California,Napa County,10825,849.0,2006,2010
+California,Solano County,California,Alameda County,11723,762.0,2006,2010
+California,Solano County,California,Contra Costa County,19903,1045.0,2006,2010
+California,Solano County,California,Solano County,109343,2128.0,2006,2010
+California,Sonoma County,California,Santa Clara County,727,193.0,2006,2010
+California,Sonoma County,California,Contra Costa County,1246,296.0,2006,2010
+California,Sonoma County,California,Solano County,1271,261.0,2006,2010
+California,Sonoma County,California,San Mateo County,1533,261.0,2006,2010
+California,Sonoma County,California,Alameda County,2150,304.0,2006,2010
+California,Sonoma County,California,Napa County,3941,420.0,2006,2010
+California,Sonoma County,California,San Francisco County,6380,559.0,2006,2010
+California,Sonoma County,California,Marin County,17457,919.0,2006,2010
+California,Sonoma County,California,Sonoma County,188435,2221.0,2006,2010
+California,Alameda County,California,Alameda County,462270,3414.0,2011,2015
+California,Alameda County,California,Contra Costa County,41010,1304.0,2011,2015
+California,Alameda County,California,Marin County,4823,444.0,2011,2015
+California,Alameda County,California,Napa County,304,89.0,2011,2015
+California,Alameda County,California,San Francisco County,92246,2228.0,2011,2015
+California,Alameda County,California,San Mateo County,35263,1466.0,2011,2015
+California,Alameda County,California,Santa Clara County,70878,1736.0,2011,2015
+California,Alameda County,California,Solano County,1670,300.0,2011,2015
+California,Alameda County,California,Sonoma County,962,199.0,2011,2015
+California,Contra Costa County,California,Alameda County,100160,2294.0,2011,2015
+California,Contra Costa County,California,Contra Costa County,283631,3560.0,2011,2015
+California,Contra Costa County,California,Marin County,8564,752.0,2011,2015
+California,Contra Costa County,California,Napa County,1653,314.0,2011,2015
+California,Contra Costa County,California,San Francisco County,58089,1975.0,2011,2015
+California,Contra Costa County,California,San Mateo County,11201,830.0,2011,2015
+California,Contra Costa County,California,Santa Clara County,14023,932.0,2011,2015
+California,Contra Costa County,California,Solano County,7534,717.0,2011,2015
+California,Contra Costa County,California,Sonoma County,968,249.0,2011,2015
+California,Marin County,California,Alameda County,4052,489.0,2011,2015
+California,Marin County,California,Contra Costa County,1957,288.0,2011,2015
+California,Marin County,California,Marin County,81726,1686.0,2011,2015
+California,Marin County,California,Napa County,476,177.0,2011,2015
+California,Marin County,California,San Francisco County,27614,1118.0,2011,2015
+California,Marin County,California,San Mateo County,2485,386.0,2011,2015
+California,Marin County,California,Santa Clara County,1097,236.0,2011,2015
+California,Marin County,California,Solano County,472,140.0,2011,2015
+California,Marin County,California,Sonoma County,4387,533.0,2011,2015
+California,Napa County,California,Alameda County,1047,231.0,2011,2015
+California,Napa County,California,Contra Costa County,1873,277.0,2011,2015
+California,Napa County,California,Marin County,1312,264.0,2011,2015
+California,Napa County,California,Napa County,51743,1015.0,2011,2015
+California,Napa County,California,San Francisco County,1788,262.0,2011,2015
+California,Napa County,California,San Mateo County,525,168.0,2011,2015
+California,Napa County,California,Santa Clara County,460,161.0,2011,2015
+California,Napa County,California,Solano County,4422,440.0,2011,2015
+California,Napa County,California,Sonoma County,2423,335.0,2011,2015
+California,San Francisco County,California,Alameda County,21561,1202.0,2011,2015
+California,San Francisco County,California,Contra Costa County,4116,497.0,2011,2015
+California,San Francisco County,California,Marin County,6933,645.0,2011,2015
+California,San Francisco County,California,Napa County,321,140.0,2011,2015
+California,San Francisco County,California,San Francisco County,353484,3127.0,2011,2015
+California,San Francisco County,California,San Mateo County,48768,1703.0,2011,2015
+California,San Francisco County,California,Santa Clara County,27100,1356.0,2011,2015
+California,San Francisco County,California,Solano County,506,147.0,2011,2015
+California,San Francisco County,California,Sonoma County,990,280.0,2011,2015
+California,San Mateo County,California,Alameda County,12423,712.0,2011,2015
+California,San Mateo County,California,Contra Costa County,1916,325.0,2011,2015
+California,San Mateo County,California,Marin County,1004,212.0,2011,2015
+California,San Mateo County,California,Napa County,114,85.0,2011,2015
+California,San Mateo County,California,San Francisco County,81943,1693.0,2011,2015
+California,San Mateo County,California,San Mateo County,218287,2527.0,2011,2015
+California,San Mateo County,California,Santa Clara County,58936,1762.0,2011,2015
+California,San Mateo County,California,Solano County,302,94.0,2011,2015
+California,San Mateo County,California,Sonoma County,149,88.0,2011,2015
+California,Santa Clara County,California,Alameda County,37913,1328.0,2011,2015
+California,Santa Clara County,California,Contra Costa County,3310,450.0,2011,2015
+California,Santa Clara County,California,Marin County,323,106.0,2011,2015
+California,Santa Clara County,California,Napa County,90,70.0,2011,2015
+California,Santa Clara County,California,San Francisco County,14241,755.0,2011,2015
+California,Santa Clara County,California,San Mateo County,45818,1387.0,2011,2015
+California,Santa Clara County,California,Santa Clara County,774477,3916.0,2011,2015
+California,Santa Clara County,California,Solano County,267,108.0,2011,2015
+California,Santa Clara County,California,Sonoma County,389,174.0,2011,2015
+California,Solano County,California,Alameda County,10315,662.0,2011,2015
+California,Solano County,California,Contra Costa County,19504,955.0,2011,2015
+California,Solano County,California,Marin County,5272,627.0,2011,2015
+California,Solano County,California,Napa County,11850,814.0,2011,2015
+California,Solano County,California,San Francisco County,8974,704.0,2011,2015
+California,Solano County,California,San Mateo County,2616,307.0,2011,2015
+California,Solano County,California,Santa Clara County,1496,300.0,2011,2015
+California,Solano County,California,Solano County,109059,1940.0,2011,2015
+California,Solano County,California,Sonoma County,2780,295.0,2011,2015
+California,Sonoma County,California,Alameda County,2271,313.0,2011,2015
+California,Sonoma County,California,Contra Costa County,1155,241.0,2011,2015
+California,Sonoma County,California,Marin County,15863,642.0,2011,2015
+California,Sonoma County,California,Napa County,4434,547.0,2011,2015
+California,Sonoma County,California,San Francisco County,6811,554.0,2011,2015
+California,Sonoma County,California,San Mateo County,1233,214.0,2011,2015
+California,Sonoma County,California,Santa Clara County,1095,231.0,2011,2015
+California,Sonoma County,California,Solano County,1009,210.0,2011,2015
+California,Sonoma County,California,Sonoma County,197589,2263.0,2011,2015
